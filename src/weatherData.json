@@ -1,0 +1,47 @@
+{
+    "cities": [
+      {
+        "city_name": "Berlin",
+        "current_weather": {
+          "temperature": "19°C",
+          "icon": "☁️"
+        }
+      },
+      {
+        "city_name": "London",
+        "current_weather": {
+          "temperature": "18°C",
+          "icon": "🌧️"
+        }
+      },
+      {
+        "city_name": "New York",
+        "current_weather": {
+          "temperature": "25°C",
+          "icon": "🌤️"
+        }
+      },
+      {
+        "city_name": "São Paulo",
+        "current_weather": {
+          "temperature": "20°C",
+          "icon": "🌫️"
+        }
+      },
+      {
+        "city_name": "Sydney",
+        "current_weather": {
+          "temperature": "22°C",
+          "icon": "☁️"
+        }
+      },
+      {
+        "city_name": "Tokyo",
+        "current_weather": {
+          "temperature": "30°C",
+          "icon": "☀️"
+        }
+      }
+    ]
+  }
+  
